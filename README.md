@@ -14,6 +14,14 @@
 5. 点击扩展界面右下解绿色菜单按钮，可对添加的`HomeAssistant页面`进行操作选择
 6. 在菜单面板中点击蓝色标题在当前小窗口打开，橙色链接则打开新页面
 
+
+在配置文件`configuration.yaml`中添加以下节点才能嵌套使用
+```yaml
+http:
+  use_x_frame_options: false
+```
+
+
 ## 截图
 ![screenshots/1.png](screenshots/1.png)
 ![screenshots/2.png](screenshots/2.png)
