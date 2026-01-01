@@ -6,7 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@material/mwc-button": "^0.25.3",
+    "@material/mwc-button": "^0.27.0",
     "@material/mwc-fab": "^0.25.3",
     "@material/mwc-icon": "^0.25.3",
     "@material/mwc-icon-button": "^0.25.3",
